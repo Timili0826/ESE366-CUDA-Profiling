@@ -1,0 +1,70 @@
+Elements: 1048576
+Blocks: 4096, threads per block: 256
+Kernel time: 0.835424 ms
+c[100] = 300.000000
+Collecting data...
+Generating '/tmp/nsys-report-4185.qdstrm'
+[1/8] [0%                          ] vector_add_profile.nsys-rep[1/8] [0%                          ] vector_add_profile.nsys-rep[1/8] [7%                          ] vector_add_profile.nsys-rep[1/8] [8%                          ] vector_add_profile.nsys-rep[1/8] [===24%                      ] vector_add_profile.nsys-rep[1/8] [========41%                 ] vector_add_profile.nsys-rep[1/8] [========42%                 ] vector_add_profile.nsys-rep[1/8] [=========43%                ] vector_add_profile.nsys-rep[1/8] [==========49%               ] vector_add_profile.nsys-rep[1/8] [========================98% ] vector_add_profile.nsys-rep[1/8] [========================100%] vector_add_profile.nsys-rep[1/8] [========================100%] vector_add_profile.nsys-rep
+[2/8] [0%                          ] vector_add_profile.sqlite[2/8] [1%                          ] vector_add_profile.sqlite[2/8] [2%                          ] vector_add_profile.sqlite[2/8] [3%                          ] vector_add_profile.sqlite[2/8] [4%                          ] vector_add_profile.sqlite[2/8] [5%                          ] vector_add_profile.sqlite[2/8] [6%                          ] vector_add_profile.sqlite[2/8] [7%                          ] vector_add_profile.sqlite[2/8] [8%                          ] vector_add_profile.sqlite[2/8] [9%                          ] vector_add_profile.sqlite[2/8] [10%                         ] vector_add_profile.sqlite[2/8] [11%                         ] vector_add_profile.sqlite[2/8] [12%                         ] vector_add_profile.sqlite[2/8] [13%                         ] vector_add_profile.sqlite[2/8] [14%                         ] vector_add_profile.sqlite[2/8] [=15%                        ] vector_add_profile.sqlite[2/8] [=16%                        ] vector_add_profile.sqlite[2/8] [=17%                        ] vector_add_profile.sqlite[2/8] [==18%                       ] vector_add_profile.sqlite[2/8] [==19%                       ] vector_add_profile.sqlite[2/8] [==20%                       ] vector_add_profile.sqlite[2/8] [==21%                       ] vector_add_profile.sqlite[2/8] [===22%                      ] vector_add_profile.sqlite[2/8] [===23%                      ] vector_add_profile.sqlite[2/8] [===24%                      ] vector_add_profile.sqlite[2/8] [====25%                     ] vector_add_profile.sqlite[2/8] [====26%                     ] vector_add_profile.sqlite[2/8] [====27%                     ] vector_add_profile.sqlite[2/8] [====28%                     ] vector_add_profile.sqlite[2/8] [=====29%                    ] vector_add_profile.sqlite[2/8] [=====30%                    ] vector_add_profile.sqlite[2/8] [=====31%                    ] vector_add_profile.sqlite[2/8] [=====32%                    ] vector_add_profile.sqlite[2/8] [======33%                   ] vector_add_profile.sqlite[2/8] [======34%                   ] vector_add_profile.sqlite[2/8] [======35%                   ] vector_add_profile.sqlite[2/8] [=======36%                  ] vector_add_profile.sqlite[2/8] [=======37%                  ] vector_add_profile.sqlite[2/8] [=======38%                  ] vector_add_profile.sqlite[2/8] [=======39%                  ] vector_add_profile.sqlite[2/8] [========40%                 ] vector_add_profile.sqlite[2/8] [========41%                 ] vector_add_profile.sqlite[2/8] [========42%                 ] vector_add_profile.sqlite[2/8] [=========43%                ] vector_add_profile.sqlite[2/8] [=========44%                ] vector_add_profile.sqlite[2/8] [=========45%                ] vector_add_profile.sqlite[2/8] [=========46%                ] vector_add_profile.sqlite[2/8] [==========47%               ] vector_add_profile.sqlite[2/8] [==========48%               ] vector_add_profile.sqlite[2/8] [==========49%               ] vector_add_profile.sqlite[2/8] [===========50%              ] vector_add_profile.sqlite[2/8] [===========51%              ] vector_add_profile.sqlite[2/8] [===========52%              ] vector_add_profile.sqlite[2/8] [===========53%              ] vector_add_profile.sqlite[2/8] [============54%             ] vector_add_profile.sqlite[2/8] [============55%             ] vector_add_profile.sqlite[2/8] [============56%             ] vector_add_profile.sqlite[2/8] [============57%             ] vector_add_profile.sqlite[2/8] [=============58%            ] vector_add_profile.sqlite[2/8] [=============59%            ] vector_add_profile.sqlite[2/8] [=============60%            ] vector_add_profile.sqlite[2/8] [==============61%           ] vector_add_profile.sqlite[2/8] [==============62%           ] vector_add_profile.sqlite[2/8] [==============63%           ] vector_add_profile.sqlite[2/8] [==============64%           ] vector_add_profile.sqlite[2/8] [===============65%          ] vector_add_profile.sqlite[2/8] [===============66%          ] vector_add_profile.sqlite[2/8] [===============67%          ] vector_add_profile.sqlite[2/8] [================68%         ] vector_add_profile.sqlite[2/8] [================69%         ] vector_add_profile.sqlite[2/8] [================70%         ] vector_add_profile.sqlite[2/8] [================71%         ] vector_add_profile.sqlite[2/8] [=================72%        ] vector_add_profile.sqlite[2/8] [=================73%        ] vector_add_profile.sqlite[2/8] [=================74%        ] vector_add_profile.sqlite[2/8] [==================75%       ] vector_add_profile.sqlite[2/8] [==================76%       ] vector_add_profile.sqlite[2/8] [==================77%       ] vector_add_profile.sqlite[2/8] [==================78%       ] vector_add_profile.sqlite[2/8] [===================79%      ] vector_add_profile.sqlite[2/8] [===================80%      ] vector_add_profile.sqlite[2/8] [===================81%      ] vector_add_profile.sqlite[2/8] [===================82%      ] vector_add_profile.sqlite[2/8] [====================83%     ] vector_add_profile.sqlite[2/8] [====================84%     ] vector_add_profile.sqlite[2/8] [====================85%     ] vector_add_profile.sqlite[2/8] [=====================86%    ] vector_add_profile.sqlite[2/8] [=====================87%    ] vector_add_profile.sqlite[2/8] [=====================88%    ] vector_add_profile.sqlite[2/8] [=====================89%    ] vector_add_profile.sqlite[2/8] [======================90%   ] vector_add_profile.sqlite[2/8] [======================91%   ] vector_add_profile.sqlite[2/8] [======================92%   ] vector_add_profile.sqlite[2/8] [=======================93%  ] vector_add_profile.sqlite[2/8] [=======================94%  ] vector_add_profile.sqlite[2/8] [=======================95%  ] vector_add_profile.sqlite[2/8] [=======================96%  ] vector_add_profile.sqlite[2/8] [========================97% ] vector_add_profile.sqlite[2/8] [========================98% ] vector_add_profile.sqlite[2/8] [========================99% ] vector_add_profile.sqlite[2/8] [========================100%] vector_add_profile.sqlite[2/8] [========================100%] vector_add_profile.sqlite
+SKIPPED: /home/cad28107/ESE366/profiling/vector_add_profile.sqlite does not contain NV Tools Extension (NVTX) data.
+[3/8] Executing 'nvtx_sum' stats report
+[4/8] Executing 'osrt_sum' stats report
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)   Max (ns)   StdDev (ns)       Name     
+ --------  ---------------  ---------  -----------  -----------  --------  ----------  -----------  --------------
+     60.0       55,363,584          9  6,151,509.3  4,334,048.0    26,912  28,619,008  9,377,721.8  poll          
+     36.0       33,214,016      1,476     22,502.7      3,104.0       992   2,711,680    151,463.8  ioctl         
+      1.2        1,079,424         22     49,064.7      9,936.0     4,384     232,960     84,682.2  open          
+      1.0          913,792         63     14,504.6      9,888.0     4,096      57,408     10,704.6  mmap          
+      0.8          751,328          9     83,480.9     36,992.0    17,760     446,304    137,195.0  sem_wait      
+      0.3          263,040         22     11,956.4      7,776.0     3,008      42,912      9,238.2  fopen         
+      0.2          224,640         15     14,976.0      2,624.0     1,312     180,032     45,701.8  read          
+      0.1          121,792          1    121,792.0    121,792.0   121,792     121,792          0.0  pthread_create
+      0.1           93,376          4     23,344.0     17,520.0     1,056      57,280     27,025.0  fgets         
+      0.1           76,608         58      1,320.8      1,280.0       992       2,240        266.8  fcntl         
+      0.1           53,056         10      5,305.6      4,144.0     3,040      14,368      3,350.7  fclose        
+      0.1           51,904         11      4,718.5      4,512.0     3,040       9,024      1,653.2  write         
+      0.0           36,224          1     36,224.0     36,224.0    36,224      36,224          0.0  open64        
+      0.0           22,496          1     22,496.0     22,496.0    22,496      22,496          0.0  connect       
+      0.0           22,368          1     22,368.0     22,368.0    22,368      22,368          0.0  socket        
+      0.0           18,528          1     18,528.0     18,528.0    18,528      18,528          0.0  pipe2         
+      0.0           16,640          2      8,320.0      8,320.0     8,160       8,480        226.3  munmap        
+      0.0            7,488          1      7,488.0      7,488.0     7,488       7,488          0.0  fwrite        
+
+[5/8] Executing 'cuda_api_sum' stats report
+
+ Time (%)  Total Time (ns)  Num Calls    Avg (ns)    Med (ns)   Min (ns)   Max (ns)   StdDev (ns)            Name         
+ --------  ---------------  ---------  ------------  ---------  --------  ----------  ------------  ----------------------
+     92.4       76,152,224          3  25,384,074.7  377,056.0   349,792  75,425,376  43,337,040.3  cudaMalloc            
+      5.5        4,513,568          3   1,504,522.7  657,984.0   625,312   3,230,272   1,494,632.0  cudaMemcpy            
+      1.0          859,520          3     286,506.7  259,968.0   251,776     347,776      53,218.7  cudaFree              
+      0.8          653,760          1     653,760.0  653,760.0   653,760     653,760           0.0  cudaLaunchKernel      
+      0.2          166,592          1     166,592.0  166,592.0   166,592     166,592           0.0  cudaEventSynchronize  
+      0.0           36,448          2      18,224.0   18,224.0     1,536      34,912      23,600.4  cudaEventCreate       
+      0.0           23,680          2      11,840.0   11,840.0     9,568      14,112       3,213.1  cudaEventRecord       
+      0.0            9,504          2       4,752.0    4,752.0     1,248       8,256       4,955.4  cudaEventDestroy      
+      0.0            2,592          1       2,592.0    2,592.0     2,592       2,592           0.0  cuModuleGetLoadingMode
+
+[6/8] Executing 'cuda_gpu_kern_sum' stats report
+
+ Time (%)  Total Time (ns)  Instances  Avg (ns)   Med (ns)   Min (ns)  Max (ns)  StdDev (ns)                         Name                       
+ --------  ---------------  ---------  ---------  ---------  --------  --------  -----------  --------------------------------------------------
+    100.0          177,664          1  177,664.0  177,664.0   177,664   177,664          0.0  vecAdd(const float *, const float *, float *, int)
+
+[7/8] Executing 'cuda_gpu_mem_time_sum' stats report
+
+ Time (%)  Total Time (ns)  Count   Avg (ns)     Med (ns)    Min (ns)   Max (ns)   StdDev (ns)           Operation          
+ --------  ---------------  -----  -----------  -----------  ---------  ---------  -----------  ----------------------------
+     67.6        2,057,824      1  2,057,824.0  2,057,824.0  2,057,824  2,057,824          0.0  [CUDA memcpy Device-to-Host]
+     32.4          985,312      2    492,656.0    492,656.0    468,576    516,736     34,054.3  [CUDA memcpy Host-to-Device]
+
+[8/8] Executing 'cuda_gpu_mem_size_sum' stats report
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)           Operation          
+ ----------  -----  --------  --------  --------  --------  -----------  ----------------------------
+      8.389      2     4.194     4.194     4.194     4.194        0.000  [CUDA memcpy Host-to-Device]
+      4.194      1     4.194     4.194     4.194     4.194        0.000  [CUDA memcpy Device-to-Host]
+
+Generated:
+    /home/cad28107/ESE366/profiling/vector_add_profile.nsys-rep
+    /home/cad28107/ESE366/profiling/vector_add_profile.sqlite

@@ -1,0 +1,4 @@
+Elements: 1048576
+Blocks: 4096, threads per block: 256
+Kernel time: 0.686816 ms
+c[100] = 300.000000

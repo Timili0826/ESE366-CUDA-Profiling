@@ -1,0 +1,3 @@
+Stride 1: 0.134176 ms, b[100] = 1.0
+Stride 32: 0.589664 ms, b[100] = 1.0
+Stride 32 / stride 1 time ratio: 4.39x

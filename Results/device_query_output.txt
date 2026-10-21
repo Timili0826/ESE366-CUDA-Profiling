@@ -1,0 +1,10 @@
+GPU: Orin
+Compute capability: 8.7
+SM count: 8
+Warp size: 32
+Max threads per block: 1024
+Max threads per SM: 1536
+Registers per SM: 65536
+Shared memory per block: 49152 bytes
+Free memory: 3713.39 MiB
+Total memory: 7607.37 MiB

@@ -1,0 +1,46 @@
+==PROF== Connected to process 219532 (/home/cad28107/ESE366/profiling/memory_stride)
+==PROF== Profiling "strideRead" - 0: 0%....50%....100% - 3 passes
+==PROF== Profiling "strideRead" - 1: 0%....50%....100% - 3 passes
+==PROF== Profiling "strideRead" - 2: 0%....50%....100% - 3 passes
+==PROF== Profiling "strideRead" - 3: 0%....50%....100% - 3 passes
+Stride 1: 641.898621 ms, b[100] = 1.0
+Stride 32: 632.020630 ms, b[100] = 1.0
+Stride 32 / stride 1 time ratio: 0.98x
+==PROF== Disconnected from process 219532
+[219532] memory_stride@127.0.0.1
+  strideRead(const float *, float *, int, int) (4096, 1, 1)x(256, 1, 1), Context 1, Stream 7, Device 0, CC 8.7
+    Section: Command line profiler metrics
+    ----------------------------------------------- ----------- ------------
+    Metric Name                                     Metric Unit Metric Value
+    ----------------------------------------------- ----------- ------------
+    l1tex__t_requests_pipe_lsu_mem_global_op_ld.sum                   32,768
+    l1tex__t_sectors_pipe_lsu_mem_global_op_ld.sum       sector      131,072
+    ----------------------------------------------- ----------- ------------
+
+  strideRead(const float *, float *, int, int) (4096, 1, 1)x(256, 1, 1), Context 1, Stream 7, Device 0, CC 8.7
+    Section: Command line profiler metrics
+    ----------------------------------------------- ----------- ------------
+    Metric Name                                     Metric Unit Metric Value
+    ----------------------------------------------- ----------- ------------
+    l1tex__t_requests_pipe_lsu_mem_global_op_ld.sum                   32,768
+    l1tex__t_sectors_pipe_lsu_mem_global_op_ld.sum       sector      131,072
+    ----------------------------------------------- ----------- ------------
+
+  strideRead(const float *, float *, int, int) (4096, 1, 1)x(256, 1, 1), Context 1, Stream 7, Device 0, CC 8.7
+    Section: Command line profiler metrics
+    ----------------------------------------------- ----------- ------------
+    Metric Name                                     Metric Unit Metric Value
+    ----------------------------------------------- ----------- ------------
+    l1tex__t_requests_pipe_lsu_mem_global_op_ld.sum                   32,768
+    l1tex__t_sectors_pipe_lsu_mem_global_op_ld.sum       sector    1,048,576
+    ----------------------------------------------- ----------- ------------
+
+  strideRead(const float *, float *, int, int) (4096, 1, 1)x(256, 1, 1), Context 1, Stream 7, Device 0, CC 8.7
+    Section: Command line profiler metrics
+    ----------------------------------------------- ----------- ------------
+    Metric Name                                     Metric Unit Metric Value
+    ----------------------------------------------- ----------- ------------
+    l1tex__t_requests_pipe_lsu_mem_global_op_ld.sum                   32,768
+    l1tex__t_sectors_pipe_lsu_mem_global_op_ld.sum       sector    1,048,576
+    ----------------------------------------------- ----------- ------------
+
