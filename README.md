@@ -1,6 +1,6 @@
 # CUDA Profiling on Jetson Orin Nano
 
-ESE 366 — Lab 2, Stony Brook University  
+ESE 366, Stony Brook University  
 **Author:** Tim Li
 
 This project uses CUDA events, compiler resource reports, Nsight Systems, Nsight Compute, and `tegrastats` to investigate CUDA performance. The experiments compare the cost of vector addition with data movement, then examine how read stride affects memory-access efficiency.
